@@ -17,6 +17,9 @@ project:
     - title: "Contributing"
       children:
         - pattern: "contributing/*.md"
+    - title: "Policies"
+      children:
+        - pattern: "policies/*.md"
     - title: "Team"
       children:
         - pattern: "team/*.md"
