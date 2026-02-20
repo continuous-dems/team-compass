@@ -10,6 +10,9 @@ project:
     - "README.md"
   toc:
     - file: "index.md"
+    - title: "Planning"
+      children:
+        - pattern: "planning/*.md"
 
 site:
   template: "book-theme"
