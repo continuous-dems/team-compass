@@ -27,8 +27,8 @@ gantt
     Add tutorials                   : 2026-04-01, 3M
 
     section Outreach
-    Community meetings, bimonthly   : 2026-04-01, 18M
     Website                         : 2026-03-01, 2M
+    Community meetings, bimonthly   : 2026-04-01, 18M
     Goal - >=5 unique contributors  : 2026-02-19, until pose2
     Goal - >=10 unique contributors : after pose1, 6M
     Continuous Zulip support        : 2026-01-01, 2y
