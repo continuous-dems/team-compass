@@ -32,13 +32,13 @@ gantt
     Website                       : 2026-03-01, 2M
 
     section Governance
-    Team compass                  : 2026-02-19, 2w
+    Team compass                  : active, 2026-02-19, 2w
     Document governance           : 2026-02-19, 2M
     Transparent decision records  : 2026-03-01, 3M
     Participative decision-making : 2026-06-01, 3M
 
     section Code Quality
-    Static analysis (fetchez)     : 2026-02-01, 2w
+    Static analysis (fetchez)     : done, 2026-02-01, 2w
     Static analysis (everything)  : 2026-02-19, 2M
     Unit tests                    : 2026-02-19, 3M
 
