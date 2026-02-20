@@ -26,3 +26,4 @@ site:
     # favicon: favicon.ico
     # logo: site_logo.png
     logo_text: "Continuous DEMs Team Compass"
+    hide_footer_links: true
