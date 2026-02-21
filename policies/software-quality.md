@@ -62,7 +62,8 @@ To help identify common spelling errors, we use
 We use [pre-commit](https://pre-commit.com) to automate running code quality tools.
 
 We only set up fast tools like Ruff with pre-commit, otherwise the commit process
-becomes annoying.
+becomes annoying (for example, typechecking is slow so we don't set up typechecking with
+pre-commit).
 
 We use [pre-commit.ci](https://pre-commit.ci) to automate pre-commit checks in PRs.
 
