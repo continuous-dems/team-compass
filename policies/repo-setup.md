@@ -52,4 +52,4 @@ The `main` branch should be protected.
   Click the Actions tab and, if present, click the button to enable Actions for this
   repository.
 * Configure GitHub Actions following our
-[software quality policy](/policies/software-quality.md).
+  [software quality policy](/policies/software-quality.md).
