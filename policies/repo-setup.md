@@ -45,9 +45,10 @@ The `main` branch should be protected.
   * Block force pushes
 
 
-## Merge policy
+## Merge strategy
 
 Only allow squash merging.
+Disable merge commits and rebase merges in repository settings.
 
 To some, [this is a controversial choice](https://www.youtube.com/watch?v=5_8FTivl8Vs).
 
