@@ -42,6 +42,7 @@ The `main` branch should be protected.
   * Restrict deletions
   * Require a pull request before merging
     * Set 1 required approval (this can be bypassed if needed)
+    * Set allowed merge methods to "squash" only
   * Block force pushes
 
 
