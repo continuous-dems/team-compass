@@ -45,6 +45,17 @@ The `main` branch should be protected.
   * Block force pushes
 
 
+## Merge policy
+
+Only allow squash merging.
+
+To some, [this is a controversial choice](https://www.youtube.com/watch?v=5_8FTivl8Vs).
+
+Squash merging is ideal for community health, as we can't expect perfect commit hygiene
+from folks who are new to open source, and welcoming those people is key to our
+community health.
+
+
 ## CI
 
 * Enable [pre-commit.ci](https://pre-commit.ci) for automating checks and fixes.
