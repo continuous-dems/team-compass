@@ -7,7 +7,7 @@ Please use this repository's issue tracker for any changes related to our polici
 practices -- how we communicate, how we work together.
 
 
-## [:link: Please view the Continuous DEMs Team Compass website](https://continuous-dems-team-compass.readthedocs.io/)
+## [:link: Please view the Continuous DEMs Team Compass website](https://continuous-dems-community-compass.readthedocs.io/)
 
 
 ## Contributing

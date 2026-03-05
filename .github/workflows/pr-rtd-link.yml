@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: 'readthedocs/actions/preview@v1'
         with:
-          project-slug: 'continuous-dems-team-compass'
+          project-slug: 'continuous-dems-community-compass'
           single-version: true
           single-language: true
           message-template: |
