@@ -1,7 +1,3 @@
 # Projects
 
-:::{note}
-🚧 TODO
-:::
-
-For now, check out our GitHub page: <https://github.com/continuous-dems/>
+For more information on our various projects, check out our [Continuous-DEMs Landing](<https://continuous-dems.github.io>)
