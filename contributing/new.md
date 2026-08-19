@@ -31,7 +31,7 @@ As a reminder, we expect all members of the Continuous-DEMs community to adhere 
     ```bash
     pip install -e .
     ```
-	
+
 ## Reporting Bugs
 
 If you find a bug, please create a new issue on the repositories GitHub page. Include:
@@ -49,7 +49,7 @@ Great documentation is just as important as code! We want the Continuous-DEMs ec
 * **Fix Typos & Clarity:** Found a confusing sentence in the README or a typo in a docstring? Please fix it! Small changes make a big difference.
 * **Add Examples:** Have a cool workflow using one of our projects? Please share it!
     * Create a Jupyter Notebook, a Markdown tutorial, or a simple shell script.
-    * Submit it to the [Continuous-DEMs reposity](https://github.com/continuous-dems.github.io) in it's `examples/` or `tutorials/` directory via a Pull Request.
+    * Submit it to the [Continuous-DEMs repository](https://github.com/continuous-dems.github.io) in it's `examples/` or `tutorials/` directory via a Pull Request.
 * **Find Out More:** For more information on contributing documentation, refer to our [Documentation](/contributing/documentation) guidelines.
 
 ## Pull Request Guidelines
