@@ -1,7 +1,7 @@
 version: 1
 
 project:
-  title: "Continuous DEMs Team Compass"
+  title: "Continuous DEMs Community Compass"
   description: "Where community members new and old align on objectives and practices"
   github: "https://github.com/continuous-dems/community-compass"
   license: "MIT"
