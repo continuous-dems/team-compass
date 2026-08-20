@@ -35,5 +35,5 @@ site:
     style: "assets/styles/style.css"
     # favicon: favicon.ico
     # logo: site_logo.png
-    logo_text: "Continuous DEMs Team Compass"
+    logo_text: "Continuous DEMs Community Compass"
     hide_footer_links: true
