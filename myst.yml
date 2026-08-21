@@ -28,6 +28,8 @@ site:
   template: "book-theme"
   nav: []
   actions:
+    - title: "Continuous-DEMs"
+      url: "https://continuous-dems.readthedocs.io"
     - title: "View source"
       url: "https://github.com/continuous-dems/community-compass"
   options:
