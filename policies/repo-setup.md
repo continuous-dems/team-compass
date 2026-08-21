@@ -1,5 +1,7 @@
 # Repository setup
 
+When setting up a new repository for the Continuous-DEMs Project, we follow the guidelines below:
+
 ## Permissions
 
 * Repositories should be public
@@ -10,13 +12,11 @@
 
 ## Documentation
 
-Set up ReadTheDocs for each software repository.
-
-Config:
+Set up [ReadTheDocs](https://about.readthedocs.com/) for each software repository.
 
 * Enable PR previews
 * Create an [automation rule](https://docs.readthedocs.com/platform/stable/guides/automation-rules.html)
-  to automatically active a new version for each software release.
+  to automatically activate a new version for each software release.
   * Description: "Release new docs version"
   * Match: "Any version"
   * Version type: "Tag"

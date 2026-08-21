@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Continuous-DEMs is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and to create an open platform that serves a broad range of communities, from research and education, to journalism, industry and beyond.
+Continuous-DEMs is an engaged and respectful community-oriented project. Your involvement helps us to further our mission and to create an open platform that serves a broad range of communities, from research and education, to journalism, industry and beyond.
 
 Naturally, this implies diversity of ideas and perspectives on often complex problems. Disagreement and healthy discussion of conflicting viewpoints are welcome: the best solutions to hard problems rarely come from a single angle. But disagreement is not an excuse for aggression: humans tend to take disagreement personally and easily drift into behavior that ultimately degrades a community. This is particularly acute with online communication across language and cultural gaps, where many cues of human behavior are unavailable. We are outlining here a set of principles and processes to support a healthy community in the face of these challenges.
 

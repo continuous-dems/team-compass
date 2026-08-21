@@ -1,7 +1,7 @@
 # Software quality
 
 Software quality checks are important for a healthy community.
-They make software easier to modify, and in the case of code formatters, can eliminate
+They make software easier to modify and maintain, and in the case of code formatters, can eliminate
 unproductive debates.
 
 

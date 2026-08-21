@@ -1,8 +1,10 @@
 # Communication
 
+We welcome your participation and encourage you to reach out to our community through our various channels of communication.
+
 ## Channels
 
-We have two communication channels right now:
+We currently have two main communication channels:
 
 * [Zulip](https://cudem.zulipchat.com): The gathering place, and often the first point
   of contact with our community.
