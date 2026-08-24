@@ -1,12 +1,12 @@
 # Code of Conduct
 
-Continuous-DEMs is an engaged and respectful community-oriented project. Your involvement helps us to further our mission and to create an open platform that serves a broad range of communities, from research and education, to journalism, industry and beyond.
+Continuous DEMs is an engaged and respectful community-oriented project. Your involvement helps us to further our mission and to create an open platform that serves a broad range of communities, from research and education, to journalism, industry and beyond.
 
 Naturally, this implies diversity of ideas and perspectives on often complex problems. Disagreement and healthy discussion of conflicting viewpoints are welcome: the best solutions to hard problems rarely come from a single angle. But disagreement is not an excuse for aggression: humans tend to take disagreement personally and easily drift into behavior that ultimately degrades a community. This is particularly acute with online communication across language and cultural gaps, where many cues of human behavior are unavailable. We are outlining here a set of principles and processes to support a healthy community in the face of these challenges.
 
 Fundamentally, we are committed to fostering a productive, harassment-free environment for everyone. Rather than considering this code an exhaustive list of things that you can’t do, take it in the spirit it is intended; a guide to make it easier to enrich all of us and the communities in which we participate.
 
-This code applies equally to founders, developers, mentors and new community members, in all spaces managed by Continuous-DEMs. This includes the mailing lists, our GitHub organizations, our chat rooms, in-person events, and any other forums created by the project team. In addition, violations of this code outside these spaces may affect a person’s ability to participate within them.
+This code applies equally to founders, developers, mentors and new community members, in all spaces managed by Continuous DEMs. This includes the mailing lists, our GitHub organizations, our chat rooms, in-person events, and any other forums created by the project team. In addition, violations of this code outside these spaces may affect a person’s ability to participate within them.
 
 ## Expected behavior
 By embracing the following principles, guidelines and actions to follow or avoid, you will help us make Contiuous-DEMs a welcoming and productive community.
@@ -48,6 +48,6 @@ In some cases, individuals may violate the CoC in online or in-person situations
 
 If the incident involves physical danger, or involves a threat to anyone’s safety (such as threats of violence), any member of the community may, and should, act unilaterally to protect the safety of any community member. This can include contacting law enforcement, other members of the community, or other local personnel that are present.
 
-Original text courtesy of the [Speak Up!](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html), [Django](https://www.djangoproject.com/conduct) and [Jupyter](https://jupyter.org/governance/conduct/code-of-conduct/) projects, modified by the Continuous-DEMs Project. We are grateful to those projects for contributing these materials under open licensing terms for us to easily reuse.
+Original text courtesy of the [Speak Up!](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html), [Django](https://www.djangoproject.com/conduct) and [Jupyter](https://jupyter.org/governance/conduct/code-of-conduct/) projects, modified by the Continuous DEMs Project. We are grateful to those projects for contributing these materials under open licensing terms for us to easily reuse.
 
 All content on this page is licensed under a [Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/) license.

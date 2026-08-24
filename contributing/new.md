@@ -7,12 +7,12 @@ Whether you're fixing a bug, adding a new data module, improving documentation, 
 Specific [projects](/projects.md) may have information on contributing or other information about getting started.
 
 ## Connections
-First off, get yourself connected with the Continuous-DEMs community online. There are a few places where we have conversations and discussion.
+First off, get yourself connected with the Continuous DEMs community online. There are a few places where we have conversations and discussion.
 
-* The [Continuous-DEMs Zulip Chat Space](https://cudem.zulipchat.com). The Continuous-DEMs team uses this for most conversations.
+* The [Continuous DEMs Zulip Chat Space](https://cudem.zulipchat.com). The Continuous DEMs team uses this for most conversations.
 * The `issues` section of the specific repositories Github page.
 
-As a reminder, we expect all members of the Continuous-DEMs community to adhere to the Continuous-DEMs [Code of Conduct](/policies/code-of-conduct) in these conversations.
+As a reminder, we expect all members of the Continuous DEMs community to adhere to the Continuous DEMs [Code of Conduct](/policies/code-of-conduct) in these conversations.
 
 ## Development Setup
 
@@ -43,13 +43,13 @@ With this information we should be able to recreate the bug and work to get it f
 
 ## Improving Documentation
 
-Great documentation is just as important as code! We want the Continuous-DEMs ecosystem to be accessible and understandable to everyone.
+Great documentation is just as important as code! We want the Continuous DEMs ecosystem to be accessible and understandable to everyone.
 
 **How you can help:**
 * **Fix Typos & Clarity:** Found a confusing sentence in the README or a typo in a docstring? Please fix it! Small changes make a big difference.
 * **Add Examples:** Have a cool workflow using one of our projects? Please share it!
     * Create a Jupyter Notebook, a Markdown tutorial, or a simple shell script.
-    * Submit it to the [Continuous-DEMs repository](https://github.com/continuous-dems/continuous-dems.github.io) in it's `examples/` or `tutorials/` directory via a Pull Request.
+    * Submit it to the [Continuous DEMs repository](https://github.com/continuous-dems/continuous-dems.github.io) in it's `examples/` or `tutorials/` directory via a Pull Request.
 * **Find Out More:** For more information on contributing documentation, refer to our [Documentation](/contributing/documentation) guidelines.
 
 ## Pull Request Guidelines
@@ -65,12 +65,12 @@ Great documentation is just as important as code! We want the Continuous-DEMs ec
 5.  **Pull Request:** Make a pull request to merge your branch into main.
 
 ## Contributions to a specific repository
-Continuous-DEMs develops and maintains a number of open-source repositories and specific contributions may depend on the repoository you're working with.
+Continuous DEMs develops and maintains a number of open-source repositories and specific contributions may depend on the repoository you're working with.
 
 To get oriented with a specific repository’s needs and process around making new contributions, look for a repository-specific contributing guide. This often comes in the form of a CONTRIBUTING.md file, or a contributing section of the documentation.
 
 For example, here is the [contributing section](https://fetchez.readthedocs.io/en/latest/contribute/index.html) for the Fetchez project. Note that it covers some of the tools specific needs you’ll need for testing and developing code for Fetchez, which are not necessarily needed for other repositories.
 
-Are the contributing docs unclear or misleading? Then please let us know! We try to make this documentation as helpful as possible, but we often don’t have the perspective of a new member to the community. Your input is extremely valuable in making it easy for others to join the Continuous-DEMs community!
+Are the contributing docs unclear or misleading? Then please let us know! We try to make this documentation as helpful as possible, but we often don’t have the perspective of a new member to the community. Your input is extremely valuable in making it easy for others to join the Continuous DEMs community!
 
 — Based in part on contributing guidelines from the [JupyterHub](https://compass.hub.jupyter.org/contribute/guide/) project.

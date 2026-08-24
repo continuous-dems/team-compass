@@ -1,6 +1,6 @@
 # Projects
 
-Continuous-DEMs develops and maintains various projects to support the development of high-resolution Digital Elevation Models (DEMs).
+Continuous DEMs develops and maintains various projects to support the development of high-resolution Digital Elevation Models (DEMs).
 
 ---
 
@@ -11,4 +11,4 @@ Continuous-DEMs develops and maintains various projects to support the developme
 
 ---
 
-For more information on our various projects, check out the [Continuous-DEMs Landing](<https://continuous-dems.github.io>)
+For more information on our various projects, check out the [Continuous DEMs Landing](<https://continuous-dems.github.io>)
