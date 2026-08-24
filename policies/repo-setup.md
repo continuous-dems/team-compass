@@ -1,6 +1,6 @@
 # Repository setup
 
-When setting up a new repository for the Continuous-DEMs Project, we follow the guidelines below:
+When setting up a new repository for the Continuous DEMs Project, we follow the guidelines below:
 
 ## Permissions
 
